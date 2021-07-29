@@ -31,3 +31,9 @@
 - npm install sucrase --save-dev
 - npm run dev:server
 
+## Referências
+- [Páginas ejs](https://www.digitalocean.com/community/tutorials/how-to-use-ejs-to-template-your-node-application-pt)
+- [path](https://www.geeksforgeeks.org/node-js-path-resolve-method/)
+- [path doc](https://nodejs.org/api/path.html)
+- [git Andre](https://github.com/andresgois/Formacao-node)
+- [EJS](https://ejs.co/#install)

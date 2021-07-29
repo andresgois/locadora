@@ -4,7 +4,8 @@ class Conta{
 
 	async index(req, res){
 		const dados = await knex.select("*").table("cliente");
-		return res.json({dados});
+		res.render('pages/cliente/index',{ dados });
+		//return res.json({dados});
 	}
 /*
   async indexOne(req, res){

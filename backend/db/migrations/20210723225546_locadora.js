@@ -54,4 +54,5 @@ exports.down = function(knex, Promise)  {
                     .dropTable('cliente')
                     .dropTable('marca')
                     .dropTable('modelo')
+                    .dropTable('operador')
 };
